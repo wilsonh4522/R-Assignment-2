@@ -11,3 +11,5 @@
 # Round the value of Pi to 2 digits  (pi = 3.14159265359)
 
 # Create a function that simulates the roll of 2 di and returns the sum of both dice rolled
+
+# Use the textbook for guidance [Chapter 2](https://rstudio-education.github.io/hopr/basics.html#objects)
