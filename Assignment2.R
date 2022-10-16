@@ -3,9 +3,9 @@
 # Create a variable 'arr' that holds a list of numbers 1 through 6
 arr <- 1:6
 # Multiply each item in 'arr' by 4
-arr * 4
+arr <- arr * 4
 # Divide each item in 'arr' by 3
-arr / 3
+arr <- arr / 3
 # Use the sample method to get a random number from 'arr'
 sample(x=arr, size=1)
 # Round the value of Pi to 2 digits  (pi = 3.14159265359)
